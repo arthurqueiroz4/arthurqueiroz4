@@ -2,17 +2,17 @@
 
 - I'm 19 years old. I'm currently studying Computer Science at IFCE and I'm really into learning about the Spring framework. 
 ---------------------------------------------------------
-<div>
+<div align="center">
   <a href="https://github.com/arthurqueiroz4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurqueiroz4&count_private=true&show_icons=true&theme=dark"/>
   
 </div>
 
-<table>
+<table align="center">
   <tr>
      <td align="center" width="96">
         <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> 
-          <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="Java" />
+          <img  src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="Java" />
         </a>
       <br>Java
      </td>
@@ -41,6 +41,13 @@
         <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" />
         </a>
         <br>PostgreSQL
+     </td>
+    </td>
+        <a href="https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api" target="_blank" rel="noreferrer"> 
+          <td align="center" width="96">
+        <img src="https://img.icons8.com/?size=512&id=iWpVsSkAqPpZ&format=png" width="50" height="50" alt="Thymeleaf" />
+        </a>
+        <br>Thymeleaf
      </td>
      
   </tr>

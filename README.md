@@ -1,7 +1,7 @@
 ## Hi, my name is Arthur
 
 - I'm 19 years old. I'm currently studying Computer Science at IFCE and I'm really into learning about the Spring framework. 
-- I started in the programming field through Python, delved into it, and began studying data science. Now, I have shifted my focus to web development using Java.
+- I started in the programming field through Python, delved into it, and studied a bit about data science. Now, I have shifted my focus to web development using Java.
 ---------------------------------------------------------
 <div align="center">
   <a href="https://github.com/arthurqueiroz4">
